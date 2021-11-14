@@ -1,0 +1,6 @@
+W:\LTTS\WEBAPI\Activity4\Activity4DTO\bin\Debug\Activity4DTO.dll
+W:\LTTS\WEBAPI\Activity4\Activity4DTO\bin\Debug\Activity4DTO.pdb
+W:\LTTS\WEBAPI\Activity4\Activity4DTO\obj\Debug\Activity6DTO.csproj.AssemblyReference.cache
+W:\LTTS\WEBAPI\Activity4\Activity4DTO\obj\Debug\Activity6DTO.csproj.CoreCompileInputs.cache
+W:\LTTS\WEBAPI\Activity4\Activity4DTO\obj\Debug\Activity4DTO.dll
+W:\LTTS\WEBAPI\Activity4\Activity4DTO\obj\Debug\Activity4DTO.pdb

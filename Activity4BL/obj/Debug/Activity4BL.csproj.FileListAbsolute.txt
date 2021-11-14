@@ -1,0 +1,11 @@
+W:\LTTS\WEBAPI\Activity4\Activity4BL\bin\Debug\Activity4BL.dll
+W:\LTTS\WEBAPI\Activity4\Activity4BL\bin\Debug\Activity4BL.pdb
+W:\LTTS\WEBAPI\Activity4\Activity4BL\bin\Debug\Activity4DAL.dll
+W:\LTTS\WEBAPI\Activity4\Activity4BL\bin\Debug\Activity4DTO.dll
+W:\LTTS\WEBAPI\Activity4\Activity4BL\bin\Debug\Activity4DAL.pdb
+W:\LTTS\WEBAPI\Activity4\Activity4BL\bin\Debug\Activity4DTO.pdb
+W:\LTTS\WEBAPI\Activity4\Activity4BL\obj\Debug\Activity4BL.csproj.AssemblyReference.cache
+W:\LTTS\WEBAPI\Activity4\Activity4BL\obj\Debug\Activity4BL.csproj.CoreCompileInputs.cache
+W:\LTTS\WEBAPI\Activity4\Activity4BL\obj\Debug\Activity4BL.csproj.CopyComplete
+W:\LTTS\WEBAPI\Activity4\Activity4BL\obj\Debug\Activity4BL.dll
+W:\LTTS\WEBAPI\Activity4\Activity4BL\obj\Debug\Activity4BL.pdb
